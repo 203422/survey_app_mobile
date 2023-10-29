@@ -1,0 +1,1 @@
+class SurveyNotFound implements Exception {}
